@@ -4,12 +4,13 @@
 Bouguerra Sami
 
 * Description
-Site web de vente de parfums avec système de décants. Le projet est entièrement développé en PHP, avec intégration du HTML/CSS directement dans les pages `.php`.
+Site web de vente de parfums avec système de décants. Le projet est  développé en PHP,  HTML/CSS et javascript directement dans les pages `.php`.
 
 * Technologies utilisées
 - PHP
 - MySQL
 - HTML/CSS intégrés
+- javascript
 - XAMPP (serveur local)
 
 * Installation
